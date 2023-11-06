@@ -1,0 +1,137 @@
+html {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+background-color: #E9EDEE;
+}
+
+header {
+    background-color: #222F3F;
+    padding-left: 2em;
+    padding-top: 0.5em;
+}
+
+#sottotitolo {
+    background-color: #364759;  
+    padding-top: 0.4em;
+    padding-bottom: 0.4em;
+    padding-left: 0.7em;
+}
+
+#s {
+    color: white;
+    padding-left: 1.5em;
+}
+
+#GiftCards {
+    background-color: #F46600;
+    text-align: center;
+    color: white;
+    padding: 0.6em;
+    margin: 2em;
+}
+
+#Guida {
+    background-image: url(images/bg-image.png) ;
+    background-position: center;
+    padding: 4em;
+    margin: 2em;
+    text-align: center;
+    color: white;
+}
+
+#Guida h1 {
+    font-size: 2em;
+    font-weight: bold;
+    padding-bottom: 1em;
+}
+
+#Guida p {
+    font-size: 1.3em;
+    font-weight: bold
+}
+
+#perfect {
+    background-color: white;
+    margin: 2em;
+    padding-bottom: 1em;
+}
+
+#perfect h2 {
+    padding: 1em;
+    font-weight: bold;
+    font-size: 1.6em;
+    padding-left: 1em;
+}
+
+#perfect span {
+    color: #065B62;
+    padding: 1em;
+    padding-left: 1.5em;
+    font-size: 0.7em;
+    font-weight: bold;
+}
+
+#primo {
+    padding-left: 1.7em;
+}
+
+article div {
+    display: inline-block;
+    margin: 10px;
+
+}
+
+div img {
+    border-radius: 20%;
+    padding-right: 1em;
+
+}
+
+#striscioni {
+    text-align: center;
+    padding: 2em;
+}
+
+#striscioni img {
+    text-align: center;
+    width: 1836px;
+}
+
+#striscioni h2 {
+    font-weight: bold;
+    font-size: 1.3em;
+}
+
+#striscioni span {
+    color: #065B62;
+    font-weight: bolder;
+    font-size: 0.6em;
+    padding-left: 1.5em;
+}
+
+#sovrafooter {
+    background-color: #364759;
+    text-align: center;
+    padding-top: 0.8em;
+    padding-bottom: 0.8em;
+    color: white;
+}
+
+footer {
+    text-align: center;
+    background-color: #222F3F;
+    padding-top: 3em;
+    padding-bottom: 3em;
+}
+
+footer img {
+    width: 150px;
+}
+
+#sovrafooter p {
+    color: white;
+    text-decoration: underline;
+    text-decoration-color: white;
+}
